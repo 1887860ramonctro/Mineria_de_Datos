@@ -6,3 +6,4 @@ Portafolio de evidencias de Minería de Datos Gpo. 02
 - [Ejercicios 1](https://github.com/Ragres/Mineria-de-datos-FCFM/blob/master/Laboratorio%201%20MD%20(1).ipynb)
 - [Resumenes Presentaciones](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Resumenes_1887860.pdf)
 - [Mapa Mental 2](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/MapaMental_2_1887860.pdf)
+- [Análisis Bases de Datos](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/AnalisisBD_1887860.pdf)
