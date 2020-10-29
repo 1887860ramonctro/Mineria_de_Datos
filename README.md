@@ -10,4 +10,4 @@ Portafolio de evidencias de Minería de Datos Gpo. 02
 ### Fase 2
 - [Análisis Bases de Datos](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/AnalisisBD_1887860.pdf)
 - [Ejercicios Básicos de Python](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Ejercicios_Basicos_Python_1887860.ipynb)
-- [Avance 1 Proyecto Integrador](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Ejercicios_Basicos_Python_1887860.ipynb)
+- [Avance 1 Proyecto Integrador](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Avance1_PIA_04_Gpo002.pdf)
