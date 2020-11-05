@@ -13,3 +13,4 @@ Portafolio de evidencias de Minería de Datos Gpo. 02
 - [Avance 1 Proyecto Integrador](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Avance1_PIA_04_Gpo002.pdf)
 
 Ejercicios de bases de datos
+- [Práctica Limpieza de Datos](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/Practica_1_Limpieza.ipynb)
