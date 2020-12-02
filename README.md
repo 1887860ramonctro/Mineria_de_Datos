@@ -17,3 +17,4 @@ Ejercicios de bases de datos
 - [Práctica Visualización de Datos](https://github.com/Ragres/Mineria-de-datos-FCFM/blob/master/Ejercicio_Visualizacio%CC%81n_Equipo4.ipynb)
 ### Fase 3
 - [Avance II Proyecto Integrador](https://github.com/1887860ramonctro/Mineria_de_Datos/blob/master/AvancePIA_II_002_Equipo4.ipynb)
+- [Proyecto Integrador de Aprendizaje](https://github.com/SabinaCastillo/Mineria-002/blob/master/PIA/PIA_Equipo%204_Gpo2.pdf?fbclid=IwAR1hg27danHW8pM25iCTOVho5Nx3SdmHNjP_EQLpZY3EV4HDdR3ly_K_vAU)
